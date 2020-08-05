@@ -28,7 +28,7 @@ export default () => {
   }, []);
   const configs = {
     fusionauth: {
-      issuer: 'http://localhost:9011/',
+      issuer: 'https://ce25267ff5a5.ngrok.io',
       clientId: '253eb7aa-687a-4bf3-b12b-26baa40eecbf',
       redirectUrl: 'fusionauth.demo:/oauthredirect',
       additionalParameters: {},
