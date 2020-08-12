@@ -55,7 +55,7 @@ export default () => {
     try {
       const access_token = await getAccesstoken();
       if (access_token !== null) {
-        fetch("http://localhost:9011/oauth2/userinfo", {
+        fetch(configs.fusionauth.issuer + "/oauth2/userinfo", {
           method: "GET",
           headers: {
             Authorization: "Bearer " + access_token,
