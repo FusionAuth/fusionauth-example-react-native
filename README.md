@@ -2,6 +2,7 @@
 ![alt text](https://i.imgur.com/obZVm93.gif)
 Repository for Tutorial How to use FusionAuth with React Native.
 
+Full blog post explaining the code: https://fusionauth.io/blog/2020/08/19/securing-react-native-with-oauth
 
 ### Installation
 
@@ -24,7 +25,7 @@ $ yarn start ios
 License
 ----
 
-MIT
+Apache2
 
 
 **Free Software, Hell Yeah!**
