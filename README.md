@@ -1,4 +1,4 @@
-# React Native FusionAUth
+# React Native FusionAuth
 ![alt text](https://i.imgur.com/obZVm93.gif)
 Repository for Tutorial How to use FusionAuth with React Native.
 
