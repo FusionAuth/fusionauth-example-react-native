@@ -28,5 +28,5 @@ License
 Apache2
 
 
-**Free Software, Hell Yeah!**
+**Free Software, Heck Yeah!**
 
