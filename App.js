@@ -6,8 +6,8 @@
  * @flow strict-local
  */
 
-import React, { useState, useCallback, useMemo } from 'react';
-import { Alert, StyleSheet, View, Image, Text, TouchableOpacity } from 'react-native';
+import React, { useCallback, useState } from 'react';
+import { Alert, Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { authorize, prefetchConfiguration } from 'react-native-app-auth';
 import * as Keychain from 'react-native-keychain';
 const defaultAuthState = {
@@ -30,7 +30,7 @@ export default () => {
     fusionauth: {
       issuer: 'https://ce25267ff5a5.ngrok.io',
       clientId: '253eb7aa-687a-4bf3-b12b-26baa40eecbf',
-      redirectUrl: 'fusionauth.demo:/oauthredirect',
+      redirectUrl: 'fusionauth-demo:/oauthredirect',
       additionalParameters: {},
       scopes: ['offline_access'],
     }

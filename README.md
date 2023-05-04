@@ -1,11 +1,10 @@
 # React Native FusionAuth
 
-
 **This has been superseded by a [new repository](https://github.com/fusionauth/fusionauth-example-react-native-0-71) which works with React Native 0.71.**
 
-https://github.com/fusionauth/fusionauth-example-react-native-0-71
+Please visit https://github.com/fusionauth/fusionauth-example-react-native-0-71
 
-
+-------
 
 ![alt text](https://i.imgur.com/obZVm93.gif)
 Repository for Tutorial How to use FusionAuth with React Native.
@@ -36,5 +35,5 @@ License
 Apache2
 
 
-**Free Software, Hell Yeah!**
+**Free Software, Heck Yeah!**
 
